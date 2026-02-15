@@ -1,7 +1,6 @@
 # Sports vs. Politics Document Classifier
 **Author:** Raj Vijayvargiya  
 **Roll Number:** B22AI067  
-**Course:** B.Tech Final Year, IIT Jodhpur
 
 ## Project Overview
 This project implements a complete machine learning pipeline to classify text documents into two categories: **Sports** and **Politics**. The goal was to compare different mathematical approaches to text classification—probabilistic, linear, and margin-based—to identify the most robust model for newsgroup data.
@@ -45,13 +44,10 @@ The models were evaluated using an 80-20 train-test split (899 test samples).
 2. Install dependencies:
    ```bash
    pip install scikit-learn pandas matplotlib seaborn
-
-```
-
+    ```
 3. Run the script:
-```bash
-python B22AI067_prob4.py
-
-```
+    ```bash
+    python B22AI067_prob4.py
+    ```
 
 
